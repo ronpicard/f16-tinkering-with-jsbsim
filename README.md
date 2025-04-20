@@ -9,7 +9,7 @@ It uses [JSBSim](https://github.com/JSBSim-Team/jsbsim), which is licensed separ
 
 ## About
 
-Fly a an F16 with JSBSim and view the flight in Tacview. Planning to explore some controls and autonomous behaviors using the sim engine.
+Fly an F16 with JSBSim and view the flight in Tacview. Planning to explore some controls and autonomous behaviors using the sim engine.
 
 ## Getting Start
 
